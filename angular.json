@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "adminProAngular"
+    }
+  },
+  "defaultProject": "adminProAngular",
+  "cli": {
+    "analytics": "39b5cd07-30dc-48f2-9e9d-1dc061f7188c"
+  }
 }
